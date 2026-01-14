@@ -6,7 +6,7 @@
 - Pattern printing
 - 1D arrays
 - Linear search
-- 2D arrays and matrix operations
+- 2D arrays and matrix operations 
 
 #  Programs Included
 - Number-based loop programs
